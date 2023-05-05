@@ -1,5 +1,5 @@
 # Latin Portuguese dictionaries
-This repository contains the RDF version of Latin-Portuguese legacy dictionaries modelled using the Ontolex-Lemon vocabulary and linked to the LiLa Knowledge Base.
+This repository contains lexicographic data (expressed as RDF triples) of Latin-Portuguese legacy dictionaries modeled using the Ontolex/Lexicog ontologies and linked to the LiLa knowledge base.
 
 ## Velez (1744) Index Totius Artis
 The **VelezLila.ttl** file is the RDF version (with linking to the LiLa Knowledge Base) of the Latin-Portuguese dictionary *Index Totius Artis*, curated by Antonio Velez as a word index to the Latin grammar of Manuel Alvares. This digital edition represents the paper edition published by the Eborensis Typographia Academica in 1744.
