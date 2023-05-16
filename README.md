@@ -5,10 +5,10 @@ This repository contains lexicographic data (expressed as RDF triples) of Latin-
 The **VelezLila.ttl** file is the RDF version (with linking to the LiLa Knowledge Base) of the Latin-Portuguese dictionary *Index Totius Artis*, curated by Antonio Velez as a word index to the Latin grammar of Manuel Alvares. This digital edition represents the paper edition published by the Eborensis Typographia Academica in 1744.
 
 ### Source of data
-Data are taken from the unstructured digital text available on the Corpus Lexicográfico do Português project website (http://clp.dlc.ua.pt/DICIweb/default.asp?url=Obras&Livro=8&Edicao=9). Eventual corrections on the text were made referring to the digital copy available on the Biblioteca Nacional de Portugal website (https://purl.pt/14821).
+Data are taken from the unstructured digital text available on the *Corpus Lexicográfico do Português* project website (http://clp.dlc.ua.pt/DICIweb/default.asp?url=Obras&Livro=8&Edicao=9). Eventual corrections on the text were made referring to the digital copy available on the Biblioteca Nacional de Portugal website (https://purl.pt/14821).
 
-### How to cite
-Dezotti, Lucas Consolin. (2023). CIRCSE/Latin-Portuguese-dictionaries: v1.0 (Velez data) (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7907189
+### How to cite this dataset
+Dezotti, Lucas Consolin. (2023). CIRCSE/Latin-Portuguese-dictionaries: v1.0 (Velez data) (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7907188
 
 ## Copyright
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This resource is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
