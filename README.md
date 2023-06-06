@@ -16,4 +16,4 @@ Dezotti, Lucas Consolin. (2023). CIRCSE/Latin-Portuguese-dictionaries: v1.0 (Vel
 ## Funding
 The *LiLa: Linking Latin* project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme – Grant Agreement No. 769994.
 
-The *Encoding Latin-Portuguese Dictionaries* project is part of a doctoral research developped at the Sao Paolo State University (UNESP, Brazil) and was financed in part by the CAPES Foundation (Ministry of Education of Brazil) - Finance Code 001 – Grant Agreement No. 88887.716744/2022-00.
+The *Encoding Latin-Portuguese Dictionaries* project is part of a doctoral research developped at the Sao Paulo State University (UNESP, Brazil) and was financed in part by the CAPES Foundation (Ministry of Education of Brazil) - Finance Code 001 – Grant Agreement No. 88887.716744/2022-00.
