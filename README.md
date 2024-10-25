@@ -24,7 +24,8 @@ Data are taken from the digital text available on the [Corpus Lexicográfico do 
 Eventual corrections on the text were made referring to the digital copy available on the Biblioteca Nacional de Portugal website ([Cardoso](https://purl.pt/14265), [Velez](https://purl.pt/14821)) or Google Books ([Fonseca](https://www.google.com.br/books/edition/Parvum_lexicon_latinum_Lusitana_interpre/xZtEAAAAcAAJ)).
 
 ## How to cite this dataset
-Dezotti, Lucas Consolin. (2024). CIRCSE/Latin-Portuguese-dictionaries (2.0) \[Data set]. Zenodo. https://doi.org/10.5281/zenodo.7907188
+Dezotti, Lucas Consolin. (2024). CIRCSE/Latin-Portuguese-dictionaries (2.0) \[Data set]. Zenodo.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13989172.svg)](https://doi.org/10.5281/zenodo.13989172)
 
 ## Copyright
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This resource is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
