@@ -25,6 +25,7 @@ Eventual corrections on the text were made referring to the digital copy availab
 
 ## How to cite this dataset
 Dezotti, Lucas Consolin. (2024). CIRCSE/Latin-Portuguese-dictionaries (2.0) \[Data set]. Zenodo.
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13989172.svg)](https://doi.org/10.5281/zenodo.13989172)
 
 ## Copyright
